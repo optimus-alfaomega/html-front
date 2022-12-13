@@ -1,0 +1,20 @@
+.color {
+
+/*    border: 5px black dashed;*/
+    border-color: blue;
+    border-style: solid;
+    border-radius: 5px;
+    border-width: 1cm;
+
+}
+
+#fondo {
+   background-color: red;
+ opacity: 0.3;
+ background-image: url('clases.PNG');
+ height: 400px;
+ background-size: auto ;
+ background-repeat: repeat-x;
+ background-position: left top;
+background: #ff0000 url('clases.PNG') repeat-y center bottom;
+}

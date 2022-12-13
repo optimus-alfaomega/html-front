@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+ 
+ }
+
+
+ body {
+
+    font-family: sans-serif;
+    padding: 90px 20 px 0;
+}
+ 
+.registro{
+    background-color: #0769e9;
+    color: white;
+    height: 20px;
+    max-width: 992px;
+    text-decoration:double; 
+    position:fixed
+    
+}
+
+.menuPrincipal {
+
+    background-color: #0769e9;
+    
+}
+
+.nav-menu-item {
+    font-size: 18px;
+    margin: 0 10px;
+    line-height: 80px;
+    text-transform: uppercase;
+    width: max-content;
+  }
+
+  .nav-menu-link{
+    padding: 8px 12px;
+    border-radius: 3px;
+  }
+  
+  .nav-menu-link:hover{
+    background-color: #034574;
+    transition: 0.5s;
+  }
+  
